@@ -1,6 +1,20 @@
 # csv2xlsx
 Convert csv info to model readable xlsx.
 
+```
+
+usage: csv2xlsx.py [-h] input output
+
+Convert CI model csv to xlsx.
+
+positional arguments:
+  input       Input csv file
+  output      Output xlsx file
+
+optional arguments:
+  -h, --help  show this help message and exit
+
+```
 
 Input file is formatted as follows:
 -------------------------------------------------------------------------------
